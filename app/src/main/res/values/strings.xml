@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListarUsuarios</string>
+    <string name="action_settings">Settings</string>
+    <string name="listar">Listar Usuarios</string>
+    <string name="codigo">Codigo</string>
+    <string name="nombre">Nombre</string>
+</resources>
