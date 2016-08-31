@@ -63,6 +63,7 @@ public class WebService {
         }
         //Return resTxt to calling object
         return resTxt;
+
     }
 
     public static List<Usuario> listarUsuarios(String nombreMetodo){
